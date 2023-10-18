@@ -119,6 +119,10 @@ export const VirtualProps = {
     type: String,
     default: '',
   },
+  lockAxis: {
+    type: String,
+    default: null,
+  },
 };
 
 export const SlotsProps = {

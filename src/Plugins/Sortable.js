@@ -1,4 +1,4 @@
-import SortableDnd from 'sortable-dnd';
+import SortableDnd from 'sortable-dnd-lock-axis-fork';
 import { Store } from './Storage';
 import { getDataKey } from '../utils';
 
@@ -16,6 +16,7 @@ const attributes = [
   'fallbackOnBody',
   'pressDelay',
   'pressDelayOnTouchOnly',
+  'lockAxis',
 ];
 
 let dragEl = null;

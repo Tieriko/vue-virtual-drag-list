@@ -1,5 +1,5 @@
 {
-  "name": "vue-virtual-draglist",
+  "name": "vue-virtual-draglist-lock-axis-fork",
   "version": "2.7.4",
   "description": "A virtual scrolling list component that can be sorted by dragging",
   "main": "dist/virtual-drag-list.min.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mfuu/vue-virtual-drag-list.git"
+    "url": "git+https://github.com/Tieriko/vue-virtual-drag-list.git"
   },
   "keywords": [
     "vue",
@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/mfuu/vue-virtual-drag-list#readme",
   "dependencies": {
-    "sortable-dnd": "0.5.4"
+    "sortable-dnd-lock-axis-fork": "^0.5.4"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
