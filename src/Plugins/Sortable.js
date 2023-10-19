@@ -17,6 +17,7 @@ const attributes = [
   'pressDelay',
   'pressDelayOnTouchOnly',
   'lockAxis',
+  'constraintContainerSelector',
 ];
 
 let dragEl = null;

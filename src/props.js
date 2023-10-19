@@ -123,6 +123,10 @@ export const VirtualProps = {
     type: String,
     default: null,
   },
+  constraintContainerSelector: {
+    type: String,
+    default: null,
+  },
 };
 
 export const SlotsProps = {
